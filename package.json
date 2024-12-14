@@ -1,0 +1,23 @@
+{
+  "name": "marketing-hero-page-section-1",
+  "version": "1.0.0",
+  "description": "A clean and modern **Marketing Hero Section** designed to boost engagement for online businesses. This responsive section can be used for websites promoting data, software products, or online services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunkumar032024/marketing-hero-page-section-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunkumar032024/marketing-hero-page-section-1/issues"
+  },
+  "homepage": "https://github.com/Arunkumar032024/marketing-hero-page-section-1#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}

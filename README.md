@@ -27,10 +27,17 @@ A clean and modern **Marketing Hero Section** designed to boost engagement for o
 ## 📂 Folder Structure
 
 ```bash
-├── index.html     # Main file containing the hero section
-├── style.css      # Custom styles (if applicable)
+├── assets/        # Folder for additional images or resources
+├── node_modules/  # Install all necesarry packages & also it's mention in .gitignore file so can just hit "npm i" cmd to install all packeages
+├── .gitignore     # A file in which mentions all files and folder that shouldn't be upload to repo
 ├── image.png      # Preview image for README
-└── assets/        # Folder for additional images or resources
+├── index.html     # Main file containing the hero section
+├── input.css      # basic & Custom styles (if applicable)
+├── output.css     # build custom css which is used in this repo
+├── package-lock.json # This file contains all information about the packages
+├── package.json   # This file contains only package names which is used in repo
+├── README.md      # A README.md file
+└── tailwind.config.js # A tailwind configuration file
 ```
 
 ## 🖥️ How to Use
@@ -98,7 +105,7 @@ If you'd like to improve this project, please follow these steps:
 
 ## 📧 Contact
 
-**Author**: [Arun kumar]  
+**Author**: Arun kumar  
 **GitHub**: [Arunkumar032024](https://github.com/Arunkumar032024)  
 **Portfolio**: [Your Portfolio Link](#)
 
