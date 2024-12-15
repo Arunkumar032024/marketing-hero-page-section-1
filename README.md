@@ -5,7 +5,8 @@ A clean and modern **Marketing Hero Section** designed to boost engagement for o
 
 ## 📸 Preview
 
-![Marketing Hero Section](./image.png)
+![Marketing Hero Section](https://github.com/user-attachments/assets/06db2047-db2f-49cb-923c-ccb25e8f28b3)
+
 
 ## ✨ Features
 
@@ -45,7 +46,7 @@ A clean and modern **Marketing Hero Section** designed to boost engagement for o
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/marketing-hero-page-section.git
+git clone [https://github.com/yourusername/marketing-hero-page-section.git](https://github.com/Arunkumar032024/marketing-hero-page-section-1.git)
 cd marketing-hero-page-section-1
 ```
 
@@ -75,18 +76,9 @@ Feel free to tweak other styles like padding, font size, and layout for further 
 
 Check out the live version of this project hosted on your preferred platform:  
 
-- **Netlify**: [Live Demo on Netlify](https://your-demo.netlify.app)  
+- **Github Pages**: [Live Demo on Github Pages](https://arunkumar032024.github.io/marketing-hero-page-section-1/)  
 
 Feel free to explore, interact, and provide feedback!
-
-## 📝 License  
-
-This project is licensed under the **MIT License**.  
-
-You are free to use, modify, and distribute this project, as long as you include the original license and copyright notice.  
-
-For more details, see the [LICENSE](./LICENSE) file included in this repository.
-
 
 ## 🤝 Contributing
 
@@ -100,12 +92,11 @@ If you'd like to improve this project, please follow these steps:
 2. **Clone the Forked Repository**:  
    Use the following command to clone it to your local machine:  
    ```bash
-   git clone [https://github.com/yourusername](https://github.com/Arunkumar032024)/marketing-hero-page-section-1.git
-
+   git clone [https://github.com/yourusername/marketing-hero-page-section.git](https://github.com/Arunkumar032024/marketing-hero-page-section-1.git)
 
 ## 📧 Contact
 
-**Author**: Arun kumar  
+**Author**: Arun kumar
 **GitHub**: [Arunkumar032024](https://github.com/Arunkumar032024)  
 **Portfolio**: [Your Portfolio Link](#)
 
