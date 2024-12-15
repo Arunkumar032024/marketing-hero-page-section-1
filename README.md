@@ -5,7 +5,8 @@ A clean and modern **Marketing Hero Section** designed to boost engagement for o
 
 ## 📸 Preview
 
-![Marketing Hero Section](https://github.com/user-attachments/assets/06db2047-db2f-49cb-923c-ccb25e8f28b3)
+![Marketing Hero Section](https://github.com/user-attachments/assets/5cd3508a-533c-48d5-ae9d-1e67e3ea3bb9)
+
 
 
 ## ✨ Features
