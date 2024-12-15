@@ -4,9 +4,70 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hero Page Section 1</title>
+    <link
+      rel="shortcut icon"
+      href="assets/favicon/favicon.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+      integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link href="./output.css" rel="stylesheet" />
   </head>
-  <body>
-    <h1 class="text-3xl bg-red-600 font-bold underline">Hello world!</h1>
+  <body
+    class="body bg-[url(https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2830&q=80&blend=111827&sat=-100&exp=15&blend-mode=multiply)] bg-cover"
+  >
+    <div class="container-div bg-purple-950 bg-opacity-5 w-full min-h-screen  mx-auto">
+      <!-- navbar section -->
+      <nav class="navbar flex justify-between items-center p-4 text-white relative">
+        <!-- navbar brand -->
+        <div class="navbar-brand text-4xl font-bold text-purple-400">a</div>
+        <!-- navbar links & login btn -->
+        <div class="navbar-login hidden absolute top-0 right-0 w-full min-h-screen lg:min-h-fit lg:static lg:flex lg:justify-end px-4 border-gray-500 sm:border-l-[1px] lg:border-l-0">
+            <div class="icon-xmark flex justify-between items-center py-4 text-gray-500 text-2xl font-thin lg:hidden">
+                <div class="navbar-brand text-4xl font-bold text-purple-400">a</div>
+                <i class="fa-solid fa-xmark hidden cursor-pointer"></i>
+            </div>
+            <!-- navbar tabs -->
+        <ul class="grid grid-cols-1 lg:grid-cols-4 lg:max-w-[50%]  gap-4">
+            <li class="font-bold hover:cursor-pointer hover:bg-gray-800 lg:hover:bg-transparent p-2 rounded-md">Product</li>
+            <li class="font-bold hover:cursor-pointer hover:bg-gray-800 lg:hover:bg-transparent p-2 rounded-md">Features</li>
+            <li class="font-bold hover:cursor-pointer hover:bg-gray-800 lg:hover:bg-transparent p-2 rounded-md">Marketplace</li>
+            <li class="font-bold hover:cursor-pointer hover:bg-gray-800 lg:hover:bg-transparent p-2 rounded-md">Company</li>
+          </ul>
+          <!-- login btn -->
+           <hr class="my-4 lg:hidden">
+          <button class="login-btn w-full lg:w-fit lg:ml-36 flex justify-center items-center gap-2 font-bold hover:cursor-pointer hover:bg-gray-800 p-2 lg:hover:bg-transparent rounded-md">Login <i class="fa-solid fa-arrow-right-long"></i></button>
+        </div>
+        <!-- additional icons -->
+        <div class="icons text-2xl text-gray-500 font-thin lg:hidden">
+          <i class="fa-solid fa-bars cursor-pointer "></i>
+          
+        </div>
+      </nav>
+
+      <!-- main section -->
+      <main class="main-content mt-24 w-full text-white p-4 text-center">
+        <div class="announcement cursor-pointer border-[1px] border-gray-800 hover:border-gray-500 hover:shadow-lg rounded-full w-fit mx-auto p-2 hidden sm:flex sm:justify-center sm:items-center sm:mb-6">
+            <p>Announcing our next round of funding.</p>
+            &ensp;
+            <button class="read-more flex justify-center items-center gap-2 font-bold">Read more <i class="fa-solid fa-arrow-right-long"></i></button>
+
+        </div>
+        <h1 class="text-5xl font-bold ">Data to enrich your online business</h1>
+        <p class="text-gray-500 font-medium text-lg my-4">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat.</p>
+        <div class="adiitional-btns flex justify-center items-center gap-2 sm:gap-4">
+            <button class="get-started cursor-pointer px-4 py-2 bg-purple-700 rounded-md font-bold">Get started</button>
+            <button class="learn-more cursor-pointer flex justify-center items-center gap-2 font-bold">Learn more <i class="fa-solid fa-arrow-right-long"></i></button>
+        </div>
+      </main>
+    </div>
+
+    <!-- main scriptt -->
+    <script src="assets/js/main.js"></script>
   </body>
 </html>

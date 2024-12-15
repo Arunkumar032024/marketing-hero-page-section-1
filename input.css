@@ -1,3 +1,60 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  /* Show animation */
+  .navbar-show {
+    animation: showNavbar 0.7s ease-out forwards;
+  }
+
+  /* Hide animation */
+  .navbar-hide {
+    animation: hideNavbar 0.7s ease-in forwards;
+  }
+}
+
+@media (max-width: 640px) {
+    @keyframes showNavbar {
+        0% {
+          width: 0%;
+        }
+        100% {
+          width: 100%;
+        }
+      }
+      
+      @keyframes hideNavbar {
+        0% {
+          width: 100%;
+        }
+        100% {
+          width: 0%;
+          display: none;
+        }
+      }
+          
+}
+
+
+@media (min-width: 640px) and (max-width:1024px)  {
+    @keyframes showNavbar {
+        0% {
+          width: 0%;
+        }
+        100% {
+          width: 50%;
+        }
+      }
+      
+      @keyframes hideNavbar {
+        0% {
+          width: 50%;
+        }
+        100% {
+          width: 0%;
+          display: none;
+        }
+      }
+      
+}
