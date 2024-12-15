@@ -47,7 +47,7 @@ A clean and modern **Marketing Hero Section** designed to boost engagement for o
 Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/marketing-hero-page-section.git](https://github.com/Arunkumar032024/marketing-hero-page-section-1.git)
+git clone https://github.com/Arunkumar032024/marketing-hero-page-section-1.git
 cd marketing-hero-page-section-1
 ```
 
@@ -93,11 +93,11 @@ If you'd like to improve this project, please follow these steps:
 2. **Clone the Forked Repository**:  
    Use the following command to clone it to your local machine:  
    ```bash
-   git clone [https://github.com/yourusername/marketing-hero-page-section.git](https://github.com/Arunkumar032024/marketing-hero-page-section-1.git)
+   git clone https://github.com/Arunkumar032024/marketing-hero-page-section-1.git
 
 ## 📧 Contact
 
-**Author**: Arun kumar
+**Author**: Arun kumar  <br>
 **GitHub**: [Arunkumar032024](https://github.com/Arunkumar032024)  
 **Portfolio**: [Your Portfolio Link](#)
 
