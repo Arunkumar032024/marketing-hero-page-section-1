@@ -98,6 +98,6 @@ If you'd like to improve this project, please follow these steps:
 ## 📧 Contact
 
 **Author**: Arun kumar  <br>
-**GitHub**: [Arunkumar032024](https://github.com/Arunkumar032024)  
-**Portfolio**: [Comming soon...](#)
+**GitHub**: [githubArunkumar](https://github.com/Arunkumar032024)  
+**Portfolio**: [portfolioArunkumar](https://my-portfolio-032024.netlify.app/)
 
